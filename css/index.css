@@ -1,0 +1,15 @@
+body {
+    font-family: sans-serif;
+}
+
+#header-inicio {
+    text-align: center;
+    background-color: thistle;
+    padding: 30px;
+    border-radius: 10px;
+}
+
+h2 {
+    font-size: 20px;
+    text-transform: uppercase;
+}
